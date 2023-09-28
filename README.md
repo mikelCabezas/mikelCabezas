@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mikel Cabezas</h1>
-<h3 align="center">Software developer with experience in web and mobile</h3>
+<h1 align="left">Hi 👋, I'm Mikel Cabezas</h1>
+<h3 align="left">Software developer with experience in web and mobile</h3>
 
 
 
