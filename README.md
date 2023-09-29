@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mikelcabezas@gmail.com**
 
-- 👨🏻‍💻 Quickly shortcut to my [resume](https://mikelcabezas.com/public/CV_Mikel_2023.pdf)
+- 👨🏻‍💻 Quickly shortcut to my [resume](https://mikelcabezas.com/public/CV_Mikel_2023.pdf){:target="_blank"}
 
 - 🏄🏻‍♂️ Fun facts: Stand Up Paddle, Music, Games, Technology.
 
